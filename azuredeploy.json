@@ -24,7 +24,9 @@
       "msdeployPackageUrl":{
          "type":"string",
          "defaultValue":"http://maws-zip.trafficmanager.net/fashaikh/functions-dotnet-sas-token/master",
-         "description":"GitHub Proxy Location For your function"
+         "metadata":{
+            "description":"GitHub Proxy Location For your function"
+         }
       }
    },
    "variables":{
