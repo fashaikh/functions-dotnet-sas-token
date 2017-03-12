@@ -1,6 +1,6 @@
 
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ffashaikh%2Ffunctions-dotnet-sas-token%2Fmaster%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/fashaikh/azure-quickstart-templates/blob/master/101-function-app-create-dynamic/azuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 <a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Ffashaikh%2Ffunctions-dotnet-sas-token%2Fmaster%2Fazuredeploy.json" target="_blank">
